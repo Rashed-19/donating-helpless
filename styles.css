@@ -98,3 +98,40 @@ section {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.sizing {
+    display: flex;
+}
+
+.sizing img {
+    width: 600px;
+    margin-left: 70px;
+    height: 300px;
+}
+
+.bg-color {}
+
+.color {
+    background: #eb1269;
+}
+
+.justy {
+    text-align: center;
+}
+
+.foot {
+    text-align: center;
+    background-color: black;
+    justify-content: center;
+    height: 130px;
+}
+
+#fut {
+    color: #FF5959;
+    padding-top: 30px;
+    font-family: 'Lobster' !important;
+}
+
+.dance {
+    color: white;
+}
